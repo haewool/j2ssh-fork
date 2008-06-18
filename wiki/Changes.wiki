@@ -1,0 +1,4 @@
+#summary Things that have changed notably.
+
+* Compiled for Java 5
+* Appear to have fixed the message streams for lengthy messages, thus fixing SFTP upload/download.
