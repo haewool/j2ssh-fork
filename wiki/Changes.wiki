@@ -1,4 +1,5 @@
 #summary Things that have changed notably.
 
-* Compiled for Java 5
-* Appear to have fixed the message streams for lengthy messages, thus fixing SFTP upload/download.
+  * Compiled for Java 5
+  * Appear to have fixed the message streams for lengthy messages, thus fixing SFTP upload/download.
+  * Added a server.xml file, which is a required configuration file but for some reason wasn't in the original repository
