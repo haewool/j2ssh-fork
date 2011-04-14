@@ -1,6 +1,0 @@
-#summary Things that have changed notably.
-
-  * target added to Ant that will try to start up the server from within the project, so you can test it straight after checkout. Try "ant quickstart" from the project root. Note that it uses the dummy authentication provider so it's extremely insecure. For testing only!
-  * Compiled for Java 5
-  * Appear to have fixed the message streams for lengthy messages, thus fixing SFTP upload/download.
-  * Added a server.xml file, which is a required configuration file but for some reason wasn't in the original repository
